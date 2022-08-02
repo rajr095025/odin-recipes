@@ -3,8 +3,13 @@ body {
     background-color: black;
 }
 
-h1 {
+h1 { 
+    text-align: center;
+    color: yellow;
     }
+ li {
+    color:white
+ }
 
 img {
     width:500px;
